@@ -32,24 +32,17 @@ estudando:
 áreas_de_interesse:
   - Front-End
   - Back-End
-  - Inteligência Artificial
-  - UI/UX
+  - Inteligência Artificial (GROK / ChatGPT / Gemmini / Perplexity)
   - Games
 
 aprendendo_atualmente:
   - HTML
   - CSS
-  - JavaScript
-
-objetivos_2026:
-  - Criar projetos próprios
-  - Aprender novas tecnologias
-  - Evoluir na programação
 
 hobbies:
   - Games
-  - Filmes
-  - Música
+  - Esportes
+  - A
 ```
 
 ---
