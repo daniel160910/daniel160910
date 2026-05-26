@@ -20,29 +20,31 @@
 <h2> 👨🏻‍💻 Um pouco sobre mim</h2>
 
 ```yaml
-nome: Seu Nome
-localização: Sua Cidade, Seu Estado
-idade: Sua Idade
+nome: Daniel Vitoriano
+localização: Jundiaí, São Paulo
+idade: 16/09/2010
 
 estudando:
-  - Tecnologia
+  - Projeto de Tecnologia
   - Programação
   - Desenvolvimento Web
+  - Banco de Dados
+  - Arte Digital
 
 áreas_de_interesse:
   - Front-End
-  - Back-End
+  - Avanço Técnologico
   - Inteligência Artificial (GROK / ChatGPT / Gemmini / Perplexity)
-  - Games
+  - Jogos
 
 aprendendo_atualmente:
   - HTML
   - CSS
 
 hobbies:
-  - Games
+  - Jogos Eletrônicos
   - Esportes
-  - A
+  - Dormir
 ```
 
 ---
